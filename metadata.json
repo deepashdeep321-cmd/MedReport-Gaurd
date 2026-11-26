@@ -1,0 +1,6 @@
+{
+  "name": "MedReport-Guard",
+  "description": "A safe AI assistant that converts scanned or photographed medical lab reports into simple, verified health summaries with Click-to-Verify evidence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
